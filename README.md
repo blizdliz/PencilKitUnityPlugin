@@ -1,29 +1,14 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+UnityからiOSのPencilKitを使ったお絵かき機能を実行するプラグインです。<br>
+実行中の画面回転には非対応です。
 
-### What is this repository for? ###
+### 使い方 ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* サンプルシーンをご参照ください
+* Asset/blizdliz/PencilKitPlugin/SampleScene.unity
 
-### How do I get set up? ###
+### バージョン ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Unity2021.3.1
+* iOS15以上
